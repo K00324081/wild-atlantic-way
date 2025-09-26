@@ -1,66 +1,43 @@
 
-
-act_h1 { 
-
-    color: #2c3e50; 
-
-    text-align: center; 
-
-    font-size: 2.5rem; 
-
-    margin: 1rem 0; 
-
-    font-family: Arial, sans-serif; 
-
+.act_h1 {
+    color: #2c3e50; 
+    text-align: center; 
+    font-size: 2.5rem; 
+    margin: 1rem 0; 
+    font-family: Arial, sans-serif; 
 }
 
-act_nav ul { 
 
-    list-style-type: none; 
-
-    padding: 0; 
-
-    margin: 0; 
-
-    display: flex; 
-
-    justify-content: center; 
-
-    background-color: #34495e; 
-
+.act_nav ul {
+   display: flex;  
+    justify-content: center; 
+    background-color: lightgray;
+    list-style-type: none; 
 }
 
-act_nav li { 
-
-    margin: 0; 
-
+.act_nav li {
+    margin-left: auto;
+    margin-right: auto;
 }
 
-act_foot { 
-
-    background-color: #34495e; 
-
-    color: white; 
-
-    text-align: center; 
-
-    padding: 1rem; 
-
-    margin-top: 2rem; 
-
+.act_foot {
+    background-color: #34495e; 
+    color: white; 
+    text-align: center; 
+    padding: 1rem;
+    margin-top: 2rem; 
 }
 
-act_h2 { 
 
-    color: #3498db; 
+.act_h2 {
+    color: #3498db; 
+    border-bottom: 2px solid #bdc3c7;
+    padding-bottom: 0.5rem; 
+    margin-top: 2rem; 
+}
 
-    border-bottom: 2px solid #bdc3c7; 
 
-    padding-bottom: 0.5rem; 
 
-    margin-top: 2rem; 
-
-} 
 
  
 
