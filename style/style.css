@@ -1,0 +1,46 @@
+
+.food_topnav {
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 50px; }
+
+.food_topnav a {
+    color: #f2f2f2; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    font-size: 17px; 
+} 
+
+.food_topnav a:hover {
+     background-color: #ddd;
+    color: black; 
+}
+
+
+food_ul li { background-color: lavenderblush;
+    margin: 1rem 0; 
+    padding: 1rem 0; 
+    border-radius: 5px; 
+    text-align: center; 
+}
+
+
+body{ 
+    justify-content: center;
+    background-color: lavender; 
+}
+
+body_p{ 
+    text-align: center;
+}
+body_h1{
+    text-align: center;
+}
+
+body_h4{
+    text-align: center
+}
+
