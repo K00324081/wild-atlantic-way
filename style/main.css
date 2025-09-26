@@ -1,0 +1,13 @@
+.intro_body {
+  background-color: green ;
+}
+
+.intro_h1{
+  color: white;
+  text-align: center;
+}
+
+.intro_p{
+  font-family: verdana;
+  font-size: 50px;
+}
